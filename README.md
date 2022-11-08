@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=journeyean&label=Profile%20views&color=0e75b6&style=flat" alt="journeyean" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://www.journeyofficial.info/](http://www.journeyofficial.info/)
+- 👨‍💻 My business projects are available at [http://www.journeyofficial.info/](http://www.journeyofficial.info/)
 - 📄 Know about my experiences [https://journeyean.github.io/resume-eanugroho/](https://journeyean.github.io/resume-eanugroho/)
 
 
